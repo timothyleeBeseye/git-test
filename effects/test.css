@@ -1,0 +1,27 @@
+.area{
+    overflow: hidden;
+  position: relative;
+  width:500px;
+  height: 900px;
+}
+.area>img{
+    width: 100%;
+}
+.area .cover{
+    background-color: rgba(75,75,75,0.9);
+    clip-path: polygon(0% 0%,0% 100%,100% 100%,100% 0%);
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+svg{
+  width: 100%;
+}
+#line-1{
+  
+}
+#c1{  
+}
+.cls-1{
+}
